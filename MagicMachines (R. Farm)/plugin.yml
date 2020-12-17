@@ -1,0 +1,7 @@
+name: MagicMachines
+main: com.redemagic.cashmachine.Main
+version: 1.0
+author: Princ
+depend: [MagicCash]
+commands:
+  cashmachine:
